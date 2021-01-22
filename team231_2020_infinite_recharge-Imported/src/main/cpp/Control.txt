@@ -1,0 +1,47 @@
+
+/*
+Left Bumper = 5              Right Bumper = 6
+Left Trigger = 7              Right Trigger = 8
+             Back = 9   Start = 10
+D-Pad    (0)                              Y = 4
+     (315)  (45)                     
+   (270) (*) (90)                     X = 1       B = 3
+     (225)  (135)                               
+        (180)                             A = 2    
+
+JoySticks: 
+    (-1) Y-Axis = 1             (-1)Z-Rotation=3
+(-1)<- X-Axis = 0 ->(1)     (-1)<- Z-Axis = 2 ->(1)
+    (1) Y-Axis = 1              (1) Z-Rotation = 3      
+     Button = 11                  Button = 12
+              
+*/
+
+/*
+Driver Control: 
+  Left Joystick Up/Down = Drive robot forward/backwards 
+  Right Joystick Left/Right = Turn robot Left/Right
+  
+  Left Bumpper = Intake Feed (5)
+  Right Bumpper = Forward Trigger (6) 
+  Left Trigger = Reverse Trigger (7)
+  Right Trigger =   Half Speed (8)
+
+  Y =  
+  X = 
+  B = 
+  A = Shooter Out Feed (2)
+
+Operator Control:
+  Left Joystick  (Left/Right) = Rotate the wheel forward/backward 
+  Right Joystick (Up/Down) = Lift up
+  Left Bumpper =  Control Panel
+  Left Trigger =  Intake Arm
+  Right Bumpper = Shooter (Flywheel)
+
+  Y =  
+  X = 
+  B = 
+  A = 
+
+*/

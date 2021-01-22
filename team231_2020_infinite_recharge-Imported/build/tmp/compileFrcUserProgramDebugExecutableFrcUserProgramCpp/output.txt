@@ -1,0 +1,8 @@
+See file:///C:/Quan%20Vo/FIRST%20Robotics/FRC%202020%20Code/team231_2020_infinite_recharge-Imported/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling Robot.cpp failed.
+C:\Quan Vo\FIRST Robotics\FRC 2020 Code\team231_2020_infinite_recharge-Imported\src\main\cpp\Robot.cpp:9:10: fatal error: ctre/Phoenix.h: No such file or directory
+ #include "ctre/Phoenix.h"
+          ^~~~~~~~~~~~~~~~
+compilation terminated.
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///C:/Quan%20Vo/FIRST%20Robotics/FRC%202020%20Code/team231_2020_infinite_recharge-Imported/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.
